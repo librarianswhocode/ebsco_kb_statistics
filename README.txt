@@ -8,3 +8,5 @@ To download your entire knowledge base (KB)
         Under Format: select CSV
         
 I typically download the entire KB with no selections, preferring to do my filtering in Python.
+
+More information on the project can be found here https://librarianswhocode.com/blog/f/count-titles-in-your-eds-knowledge-base-kb
